@@ -9,27 +9,27 @@ This fun game allows you to see how well you can draw. Given three topics, choos
  I made this during the my Junior year of high school (Fall 2019).
 [Download on the app store!](https://apps.apple.com/us/app/smartdraw/id1468990421)
 
-SIMPLE GAMEPLAY
+## SIMPLE GAMEPLAY
 
 Just click play and follow the directions on the screen.
 
 
-CUSTOMIZE
+## CUSTOMIZE
 
 You can change the color of the pen to whatever color you wish, such as Sarcoline, Smaragdine, or Mikado (yes, these are actual colors).
 
 
-STATISTICS
+## STATISTICS
 
 The game keeps track of how well you have drawn.
 
 
-VARIOUS TOPICS
+## VARIOUS TOPICS
 
 There are many topics to choose from when drawing.
 
 
-HOW THE AI WORKS
+## HOW THE AI WORKS
 
 The AI consists of a neural network that has been trained on thousands of drawings by people all over the world. This allows it to classify your drawings with high accuracy.
 
